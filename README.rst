@@ -11,5 +11,4 @@ through the pipeline and help them reach the end. The code is based on Ubuntu's 
 and the tool is currently private to the Greenhouse development team and Debian developers who ask for permission. 
 
 The best way to help and/or request features it to introduce yourself on on our mailing list at 
-http://lists.openhatch.org/mailman/listinfo/greenhouse and join the discussion. You can also reach via IRC on 
-freenode at #openhatch.
+http://lists.openhatch.org/mailman/listinfo/greenhouse and join the discussion. You can also find us on IRC at `#openhatch on irc.freenode.net <http://webchat.freenode.net/?channels=openhatch>`_.
